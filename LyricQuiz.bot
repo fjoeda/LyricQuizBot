@@ -1,0 +1,18 @@
+{
+    "name": "LyricQuiz",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "3f740af0-cc8f-11e9-a5b3-ed791fa42723",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Riset\\Bots\\LyricQuizBot\\LyricQuiz.bot"
+}
